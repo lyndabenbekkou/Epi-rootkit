@@ -11,6 +11,7 @@ Une fois chargé sur la machine victime, le module se connecte automatiquement �
 
 ## Architecture
 
+```
 epirootkit/
 ├── rootkit/
 │   ├── epirootkit_main.c
@@ -26,6 +27,7 @@ epirootkit/
 └── attacking_program/
     ├── attack_client.py
     └── decrypt.py
+```
 
 ## Environnement
 
